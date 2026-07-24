@@ -1,6 +1,7 @@
-num = int(input("Enter a number: "))
-
+num = int(input("i am 0"))
 if num % 2 == 0:
     print("Even")
 else:
-    print("Odd")
+    print("Odd")b
+    bitan is a pagla choda
+    \
